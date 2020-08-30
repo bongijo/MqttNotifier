@@ -1,0 +1,4 @@
+{
+  "topic": "<topicName>",
+  "broker": "tcp://<ip>:<port>"
+}
